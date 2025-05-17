@@ -1,0 +1,7 @@
+[project]
+name = "association"
+version = "0.1.0"
+description = "Association project - Apriori and FP-Growth algorithm Implementation"
+readme = "README.md"
+requires-python = ">=3.12.3"
+dependencies = []
