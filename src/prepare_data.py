@@ -20,7 +20,7 @@ def download_dataset(source: str, rename: str = None):
             if file.name != 'e-commerce.csv':
                 file.rename('data/e-commerce.csv')
                 break
-    
+
     
 if __name__ == '__main__':
     download_dataset('gabrielramos87/an-online-shop-business', 

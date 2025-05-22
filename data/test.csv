@@ -1,0 +1,14 @@
+Transaction,Item_no,Item_name,Quantity
+1,1,bread,5
+1,4,cheese,5
+2,4,cheese,4
+2,1,bread,2
+2,5,milk,4
+2,3,butter,3
+2,2,jams,3
+3,2,jams,1
+4,2,jams,4
+4,5,milk,1
+5,2,jams,5
+5,4,cheese,1
+5,3,butter,3
