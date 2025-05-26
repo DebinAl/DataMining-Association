@@ -1,3 +1,6 @@
-/.venv
-/.vscode
+.venv
+.vscode
 .env
+
+/result/*
+/data/*
